@@ -1,6 +1,5 @@
 **Wallet App README**
 
-![Wallet App Logo](https://imgur.com/a/pzpYeRD)
 
 Welcome to our Wallet App! This iOS application allows users to manage their finances efficiently, offering features such as expense tracking, budget management, and transaction history.
 
@@ -40,17 +39,6 @@ Welcome to our Wallet App! This iOS application allows users to manage their fin
    ```
 
 3. Build and run the project in the simulator or on a physical device.
-
-### Screenshots:
-
-![Screenshot 1](screenshot1.png)
-*Login and SignIn*
-
-![Screenshot 2](screenshot2.png)
-*Card View*
-
-![Screenshot 3](screenshot3.png)
-*Transaction History Screen*
 
 ### Contribution:
 
